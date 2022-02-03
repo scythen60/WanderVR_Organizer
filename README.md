@@ -1,6 +1,6 @@
 # WanderVR_Organizer
 
-Set of scripts to help organize favorites in WanderVR
+Set of scripts to help rename and organize favorites in WanderVR
 
 Requirements:
 
