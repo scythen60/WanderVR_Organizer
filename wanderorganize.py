@@ -187,7 +187,7 @@ def isUsed(df,folderName='default'):
     return df
 
 if __name__ == "__main__":
-    file = 'c:\\users\\inaun\\wander_favorites.json'
+    file = 'c:\\users\\YOUR_USER\\wander_favorites.json'
     
     print('=== scraping svf ===')
     wanderscrape.svf()
