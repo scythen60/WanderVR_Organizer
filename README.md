@@ -22,5 +22,5 @@ wanderview.py - Creates a static html page to view thumbnails / links to favorit
 
 
 
-If you use the included tmp.txt file, you can run "python waderscrape.py" to see if the database is being populated correctly. If that works, your setup is likely complete.
+If running "python waderscrape.py" populates the DB correctly, your setup is likely complete.
 </pre>
