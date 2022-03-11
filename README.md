@@ -20,4 +20,7 @@ wanderorganize.py - Main program that renames and alphabetically sorts Wander_Fa
 wanderscrape.py - Scrapes tmp.txt in same directory for adhoc links. You can grab many links at once using network inspector in a browser and copying HAR text. Can also parse streetviewfun.com.
 wanderview.py - Creates a static html page to view thumbnails / links to favorites. Needs more work to be useful.
 
+
+
+If you use the included tmp.txt file, you can run "python waderscrape.py" to see if the database is being populated correctly. If that works, your setup is likely complete.
 </pre>
