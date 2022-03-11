@@ -10,10 +10,9 @@ python modules: reverse_geocoder, requests, selenium, bs4, pandas
 
 
 Instructions:
+Make sure you have backed up your Wander_Favorites.json file, and that a copy of it exists in the directory configured at the bottom of wanderorganize.py.
 
-create wander.db
-.read wander.db.sql
-.read continent.sql
+create wander.db with wander.db.sql
 
 wanderclean.py - A way to flag broken panoids. Only used once in awhile to clear out deleted photospheres.
 wandermake.py - Work in progress. Don't use.
