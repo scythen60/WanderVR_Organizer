@@ -22,5 +22,6 @@ wanderview.py - Creates a static html page to view thumbnails / links to favorit
 
 
 
-If running "python waderscrape.py" populates the DB correctly, your setup is likely complete.
+If running "python wanderscrape.py" populates the DB correctly, your setup is likely complete.
+Try it out with "python wanderorganize.py"
 </pre>
